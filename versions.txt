@@ -1,0 +1,5 @@
+Google Chrome 114.0.5735.133
+
+ChromeDriver 114.0.5735.90
+
+Ubuntu 22.04
