@@ -3,3 +3,7 @@ Google Chrome 114.0.5735.133
 ChromeDriver 114.0.5735.90
 
 Ubuntu 22.04
+
+*LEMBRAR DE SETAR O CAMINHO DO chromedriver.*
+
+ export PATH="$PATH:CAMINHO-DO-chromedriver"
